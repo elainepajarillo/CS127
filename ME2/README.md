@@ -1,3 +1,3 @@
-# ME 2 Creating the Related Tables
-Identify the data needed in the given scenario. Data are grouped into tables, with an appropriate label to each table. 
-Tables are conneced with a line if you think that there are data that needs to be "connected" in order to answer the given questions.
+# ME2 Creating the Related Tables
+Identified the data needed in the given scenario. The data are grouped into tables, with an appropriate label for each table. 
+Tables are connected with a line that needs to be "connected" to answer the given questions or if we think there should be a relation.
