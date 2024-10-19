@@ -4,3 +4,6 @@ This project will include both front-end and back-end but the latter will be hea
 
 ## Teacher Grading System and Class Scheduling
 Main topic assigned to my group. This repo will include more details regarding this topic than the rest since we will be more hands-on with this, but all parts of the system will be uploaded.
+
+## First Task
+The first task for our group is to make an ERD for our topic. We have to set relationships and predict every possible data that will be needed and make the diagram.
