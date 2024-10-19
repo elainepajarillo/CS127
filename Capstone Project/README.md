@@ -7,3 +7,4 @@ Main topic assigned to my group. This repo will include more details regarding t
 
 ## First Task
 The first task for our group is to make an ERD for our topic. We have to set relationships and predict every possible data that will be needed and make the diagram.
+I actually do not know how to do this, but I will be updating you as soon as we have started making it.
